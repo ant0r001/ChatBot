@@ -3,7 +3,7 @@ This is a modern and responsive AI chatbot application built using the Google Ge
 
 ✨ Features
 
-Gemini 1.5 Flash Integration: Uses a powerful API for fast and accurate responses.
+Gemini 2.5 Flash Integration: Uses a powerful API for fast and accurate responses.
 
 Multimodal Support: Users can ask questions by uploading images alongside text messages.
 
